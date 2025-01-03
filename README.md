@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Elsamahy from Egypt<br><br>- 🔭 I’m working as CEO of EMAM NGO, Cairo Branch<br>- 📚 I'm currently learning AI Engineering</p>
+<p align="left">I'm Mohamed Elsamahy from Egypt<br><br>- 🔭 I’m working as Excutive Director of EMAM NGO, Cairo Branch<br>- 📚 I'm currently learning AI Engineering</p>
 
 ###
 
